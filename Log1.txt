@@ -1,5 +1,6 @@
 This will be the first entry of what i'll call "The CHUCK E. CHEESE Tube Archives" where activity & progress updates on the S3&K Decomp will be Recorded & Documented:
-I extracted the .RSDK & Modified the source code, deleting any Sonic Mania leftovers i can find, so far so good, but in order to get the game working in Retro Engine v5 Ultimate however, i'll need to do one of the following:
+I extracted the .RSDK & Modified the source code, deleting any Sonic Mania leftovers i can find, so far so good,
+but in order to get the game working in Retro Engine v5 Ultimate however, i'll need to do one of the following:
 1. decompile 3&K out of sonic origins (witch is overpriced & i can't download it from anywhere might i add)
 2. use code from sonic mania & put that in the rsdk of sonic 3 & knuckles
 or
