@@ -1,0 +1,6 @@
+This is the third entry of The CHUCK E. CHEESE Tube Archives:
+something went horably wrong! the RSDKv5U decomp is malfunctioning not just on this decomp but also in my Sonic mania game too! every time i open the engine, the keys go haywire!
+even when i'm not touching anything in mania, sonic & tails go crazy, the save slots only go one way, etc & this happens every time i extract a fresh new RSDKv5U it preforms the same key glitch
+if there's any reason for this, please let me know, as this glitch makes it hard for me to play mania, let alone, work on this decomp
+so the game is unfortunately going to be delayed until further notice, i'm sorry
+More Updates Soon...
