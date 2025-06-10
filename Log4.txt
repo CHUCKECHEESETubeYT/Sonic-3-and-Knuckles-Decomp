@@ -1,0 +1,6 @@
+This is the forth entry of The CHUCK E. CHEESE Tube Archives:
+so my original plan didn't work out as well as i wanted, mainly because i didn't know where to start for making the code & the game.dll, plus the errors i faced with the Retro Engine version i was using before
+i decided to save that plan for another time, for now however, i have the main file ripped from sonic origins witch does have the S3&K code right inside the file itself as well as the code for sonic origins itself, all i need to do is use Ghidra to extract everything
+however that raised problems of it's own, mainly due to the pc i'm using, witch is from 2013 & extremly out of date & can only run so much before it brakes down & i can not risk my pc crashing on me, especally if my hard drive get's erased because of it!
+so if i'm going to make this shit work, i need a hardware upgrade, but it will be a while before that happens, so until then, i'll try to make something work, if not, well fuck it, if anyone out there is an expert on this, please help me! 
+More Updates Soon...
