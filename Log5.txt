@@ -1,0 +1,6 @@
+This is the fifth entry of The CHUCK E. CHEESE Tube Archives:
+a dissagrement between me & a person i was working with lead to a massive argument & now we're not talking to eachother anymore, but it's fuckever, i still have the main file nessasary for the S3&K
+for those who wish to know, it's a rip from the switch version of sonic origins & now all i need to do is decompress, dissasemble & finally: decompile said file & i should be good as gold
+however, if i'm ever going to do such, i would need some switch tools if i'm ever going to get started, luckly, there are some tools out there already, so it'll be fine, just wish me luck for now
+i'll see what i can do, as of writing this, i'm still working on decompressing the main file, so, that's what i'll be working on first, decompressing
+More Updates Soon...
