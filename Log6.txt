@@ -1,0 +1,8 @@
+This is the sixth entry of The CHUCK E. CHEESE Tube Archives:
+unfortunately, the software i was using to decompress the main file (nx2elf) does not work within my pc, so for that, i will have to put this project on hold until i can find some diffrent software i can use
+you see, when i try to run the software in question, it would crash immediately upon startup, i'm not sure what causes it, either because my pc is too old or the software was just not made for my pc in general
+for those curious, the pc i use is a dell inspiron 1 2330 made back in 2012-2013, so if anything, i only have so much to go off of
+i do have another pc i could potentaly use, but the problem is, it needs an upgraded cpu, as well as another way to save on storage
+i say this because hard drives can be damaged fairly easily, so a usb flash drive is in order, either way, the only way i can decompress the main file is if i could find a diffrent software i can use for decompressing main files from switch games
+but who knows, maybe i can find an executible for sonic origins made for pc & use that instead for this said decompilation, we'll just have to wait & see, for now however, i'll just have to find something for decompressing first, wish me luck
+More Updates Soon...
