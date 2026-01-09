@@ -1,0 +1,9 @@
+This is the eighth entry of The CHUCK E. CHEESE Tube Archives:
+at last, after all this time, i have the decompiled code right in the palm of my hand, but there's a catch, the code is a complete mess!
+what the decompiled code is, is a compilation of 3 things:
+Hedgehog Engine 2 (for the menus)
+RSDKv5U (for running the 4 rsdk games)
+& finally S3&K (the very game i'm decompiling)
+so in truth, all of this needs to be cleaned up & seperated in order for such a thing to be useful, i might need some help in some areas, but otherwise
+it's all there, it just needs to be cleaned up & organized & afterwards, we'll be all good to go! we're nearly there everyone, we're nearly there
+More Updates Soon...
